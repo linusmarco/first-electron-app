@@ -14,5 +14,13 @@
         "electron"
     ],
     "author": "Linus Marco",
-    "license": "MIT"
+    "license": "MIT",
+
+    "dependencies": {
+        
+    },
+
+    "devDependencies": {
+        "electron": "^1.6.2"
+    }
 }
